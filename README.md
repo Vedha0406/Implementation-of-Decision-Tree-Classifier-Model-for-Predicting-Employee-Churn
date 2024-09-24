@@ -16,12 +16,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Program:
 
-/*
+```
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: VEDHASHREE.G
 RegisterNumber: 212223240171
-*/
-```
+
 import pandas as pd
 data=pd.read_csv("C:/Users/admin/Desktop/INTR MACH/Employee.csv")
 
